@@ -1,0 +1,13 @@
+C:\Users\arvid.maxvall\source\repos\FilmDatabase\FilmDatabase\bin\Debug\netcoreapp3.1\FilmDatabase.exe
+C:\Users\arvid.maxvall\source\repos\FilmDatabase\FilmDatabase\bin\Debug\netcoreapp3.1\FilmDatabase.deps.json
+C:\Users\arvid.maxvall\source\repos\FilmDatabase\FilmDatabase\bin\Debug\netcoreapp3.1\FilmDatabase.runtimeconfig.json
+C:\Users\arvid.maxvall\source\repos\FilmDatabase\FilmDatabase\bin\Debug\netcoreapp3.1\FilmDatabase.runtimeconfig.dev.json
+C:\Users\arvid.maxvall\source\repos\FilmDatabase\FilmDatabase\bin\Debug\netcoreapp3.1\FilmDatabase.dll
+C:\Users\arvid.maxvall\source\repos\FilmDatabase\FilmDatabase\bin\Debug\netcoreapp3.1\FilmDatabase.pdb
+C:\Users\arvid.maxvall\source\repos\FilmDatabase\FilmDatabase\obj\Debug\netcoreapp3.1\FilmDatabase.csprojAssemblyReference.cache
+C:\Users\arvid.maxvall\source\repos\FilmDatabase\FilmDatabase\obj\Debug\netcoreapp3.1\FilmDatabase.csproj.CoreCompileInputs.cache
+C:\Users\arvid.maxvall\source\repos\FilmDatabase\FilmDatabase\obj\Debug\netcoreapp3.1\FilmDatabase.AssemblyInfoInputs.cache
+C:\Users\arvid.maxvall\source\repos\FilmDatabase\FilmDatabase\obj\Debug\netcoreapp3.1\FilmDatabase.AssemblyInfo.cs
+C:\Users\arvid.maxvall\source\repos\FilmDatabase\FilmDatabase\obj\Debug\netcoreapp3.1\FilmDatabase.dll
+C:\Users\arvid.maxvall\source\repos\FilmDatabase\FilmDatabase\obj\Debug\netcoreapp3.1\FilmDatabase.pdb
+C:\Users\arvid.maxvall\source\repos\FilmDatabase\FilmDatabase\obj\Debug\netcoreapp3.1\FilmDatabase.genruntimeconfig.cache
